@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/node": "^25.9.0",
+    "typescript": "^6.0.3"
+  },
+  "scripts": {
+    "dev": "tsx watch ./src/server.ts"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "tsx": "^4.22.2"
+  }
+}
